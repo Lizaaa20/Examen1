@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'Noticias.dart';
+import 'Tareas.dart';
 
 void main() {
   runApp(const MyApp());
